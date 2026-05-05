@@ -66,8 +66,7 @@ The following folder utilizes the "data.ipynb" notebook to merge, clean, and ref
 ## Running the Notebook:
 
 1. Save the data as formatted in the repository to a local directory (exclude the cleaned data files).
-2. In "data.ipynb", change every line (11 lines) with a file path to your associated file path.
-3. Run the notebook. The cleaned data will appear where they're placed in the repository.
+2. Run the notebook. The cleaned data will appear where they're placed in the repository.
 
 ## Dependencies:
 Using Python base 3.13.5, the following packages are used:
