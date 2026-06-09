@@ -3,15 +3,13 @@
 The following folder utilizes the "analysis.ipynb" notebook to appropriately derive necessary statistics and visuals. This analysis compares response times, call densities, call classifications, and call closure outcomes across different weather conditions.
 
 The notebook performs:
-1. Data cleaning and standardization
-2. CAHOOTS call extraction
-3. Weather-based filtering
-4. Response time analysis
-5. Call density calculations
-6. ANOVA significance testing
-7. Tukey HSD post-hoc testing
-8. Regression visualization
-9. Call type and closure outcome visualization
+- CAHOOTS call extraction
+- Weather-based filtering
+- Response time analysis
+- Call density analysis
+- ANOVA significance testing
+- Tukey HSD post-hoc testing
+- Visualizations & Regression
 
 ## Associated Data:
 
